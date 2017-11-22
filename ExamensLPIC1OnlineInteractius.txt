@@ -1,0 +1,22 @@
+https://www.exam-labs.com/exam/010-150
+https://www.exam-labs.com/info/101-350 (obsolet)
+https://www.exam-labs.com/info/117-101 (obsolet)
+https://www.exam-labs.com/info/101-400
+https://www.exam-labs.com/info/102-350 (obsolet)
+https://www.exam-labs.com/info/117-102 (obsolet)
+https://www.exam-labs.com/info/102-400
+
+https://www.linuxcareer.com/linux-lpi-101-practice-quiz
+https://www.linuxcareer.com/linux-lpi-102-practice-quiz
+
+http://www.gocertify.com/quizzes/linux-practice-questions/testout-linux-lx0-101-and-lx0-102-practice-questions.html
+http://www.gocertify.com/quizzes/linux-practice-questions/linux-lpi101-lx0101-quiz.html
+http://www.gocertify.com/quizzes/linux-practice-questions/linux-lpi102-lx0102-quiz.html
+http://www.gocertify.com/quizzes/linux-practice-questions/linux-file-permissions-quiz.html
+
+http://www.linux-admins.net/2010/12/lpi-101-certification-practice-test.html (o http://gnosis.cx/publish/programming/exam101.html)
+http://www.penguintutor.com/quiz/index.php
+
+Aplicacions Android...: https://play.google.com/store/apps/details?id=appinventor.ai_awsoeasy.LPI_101_Exam_Primer
+Examens VCE...: http://examsforall.com/exams/lpi ;  https://www.examcollection.com/lpi_exams.html
+		https://www.avanset.com/downloads.html
