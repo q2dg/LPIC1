@@ -1,8 +1,3 @@
-Llibreries compartides (ldconfig, LD_LIBRARY_PATH, ...)
--------------------------------------------------------
-http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
-
-
 Gestió paquets RPM
 ------------------
 http://ftp.rpm.org/max-rpm/p108.html
@@ -15,13 +10,7 @@ https://help.ubuntu.com/community/AptGet/Howto
 
 Udev
 ----
-https://wiki.archlinux.org/index.php/udev i https://wiki.debian.org/udev
 https://www.linux.com/news/udev-introduction-device-management-modern-linux-system (més tècnic)
-
-
-Directori /proc
----------------
-http://persoal.citius.usc.es/tf.pena/ASR/Tema_3html/node7.html
 
 
 GRUB Legacy
