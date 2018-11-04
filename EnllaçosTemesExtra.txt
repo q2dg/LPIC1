@@ -16,3 +16,10 @@ https://www.linux.com/news/udev-introduction-device-management-modern-linux-syst
 GRUB Legacy
 -----------
 https://wiki.archlinux.org/index.php/GRUB_Legacy
+
+
+v5.0
+----
+md5sum...
+Explicar contenedores vs VM...
+SQL NO!
