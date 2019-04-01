@@ -1,0 +1,14 @@
+*SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL (SQL92) database engine.
+
+*SQLite does not require a separate server process or system to operate (serverless) and hasn't external dependencies. In fact, SQLite engine is not a standalone process like other databases, so you can link it statically or dynamically as per your requirement with your application.
+
+*SQLite accesses its storage files directly (database is stored in a single cross-platform disk file).
+
+------------------------
+
+To install, you can download source code from official site (https://www.sqlite.org/download.html) and write the following commands:
+tar xvfz sqlite-snapshot-2019xxxxxx.tar.gz
+cd sqlite-snapshot-2019xxxxxxxx
+./configure --prefix = /usr/local
+make
+sudo make install
